@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 rewtr
 
 
 
 =======
 hdfshgisvj123
+>>>>>>> refs/remotes/origin/master
+=======
+qinhudi
 >>>>>>> refs/remotes/origin/master
